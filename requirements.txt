@@ -1,0 +1,15 @@
+torch
+torchvision
+timm
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+Pillow
+shap
+gradio
+transformers
+kagglehub
+google-generativeai
+jupyter
